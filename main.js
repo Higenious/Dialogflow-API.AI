@@ -1,5 +1,5 @@
 var express   =  require('express');
-var apiai     =  require('apiai')('173023bdeb6a4441a908d1cb4982614b');
+var apiai     =  require('apiai')('token');
 var app       =  express();
 
 
